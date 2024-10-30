@@ -1,3 +1,3 @@
 # Advent of Code
 
-[Year 2024](../2024)
+[Year 2024](2024)
